@@ -1,5 +1,11 @@
+import Header from "@/components/Header";
 import Image from "next/image";
 
 export default function Home() {
-  return <main>Hola mundo!</main>;
+  return (
+    <>
+      <Header />
+      <main>Hola mundo!</main>
+    </>
+  );
 }
