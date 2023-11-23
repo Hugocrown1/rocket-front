@@ -21,7 +21,7 @@ const Header = () => {
     <header className="flex flex-row justify-between items-center p-2 border-b-[1px]  h-[55px]  ">
       <Link className="flex flex-row items-center" href={"/"}>
         <IconRocket size={40} />{" "}
-        <p className="text-2xl font-extrabold">Robertito C</p>
+        <p className="text-2xl font-extrabold">Rocket Store</p>
       </Link>
       <nav className="flex flex-row justify-between">
         <ul className="flex flex-row gap-x-4">
