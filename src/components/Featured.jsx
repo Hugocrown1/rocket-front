@@ -20,10 +20,8 @@ const Featured = () => {
         </button>
       </div>
       <div className="relative w-full h-full z-10">
-        <Image
-          layout="fill"
-          objectFit="contain"
-          className="aspect-auto "
+        <img
+          className="aspect-auto  "
           alt="Producto destacado"
           src={
             "https://i.pinimg.com/originals/0e/05/b0/0e05b096d260feacee88505342c75b4f.png"

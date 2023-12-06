@@ -18,7 +18,7 @@ const Header = () => {
     },
   ];
   return (
-    <header className="flex flex-row justify-between items-center p-2 border-b-[1px]  h-[55px]  ">
+    <header className="flex flex-row justify-between items-center p-2   h-[55px] bg-black text-white  ">
       <Link className="flex flex-row items-center" href={"/"}>
         <IconRocket size={40} />{" "}
         <p className="text-2xl font-extrabold">Rocket Store</p>
