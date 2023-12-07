@@ -2,7 +2,7 @@ import React from "react";
 
 const Banner = () => {
   return (
-    <section className="relative flex items-center justify-center h-[600px] w-ful ">
+    <section className="relative flex items-center justify-center h-[700px] w-ful ">
       <div className="flex flex-col gap-1 text-white">
         <p className=" text-8xl font-bold">ROCKET STORE</p>
         <div className="flex w-full gap-12 text-xl justify-center items-center font-medium">
